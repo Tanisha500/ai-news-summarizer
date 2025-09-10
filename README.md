@@ -73,3 +73,12 @@ It automatically fetches news articles from Google News RSS, summarizes them usi
   - Trigger manually or wait for the Cron schedule
 
   - AI summaries will start appearing in your Slack channel
+
+
+##  Workflow Screenshot
+
+<img width="1469" height="377" alt="Screenshot 2025-09-08 224957" src="https://github.com/user-attachments/assets/76b8b636-c4dc-49b0-99fd-9180f3f1a08f" />
+
+##  Output 
+
+<img width="1387" height="784" alt="Screenshot 2025-09-08 235420" src="https://github.com/user-attachments/assets/00fb5f72-b222-4a00-82bf-5322ea7696c8" />
