@@ -64,12 +64,12 @@ It automatically fetches news articles from Google News RSS, summarizes them usi
 
 3. **Configure Credentials**
 
-  Groq API Key → Add under Groq Chat Model node
+  - Groq API Key → Add under Groq Chat Model node
 
-  Slack API Credentials → Connect your Slack workspace in Send a message node
+  - Slack API Credentials → Connect your Slack workspace in Send a message node
 
 4. **Run the Workflow**
 
-  Trigger manually or wait for the Cron schedule
+  - Trigger manually or wait for the Cron schedule
 
-  AI summaries will start appearing in your Slack channel
+  - AI summaries will start appearing in your Slack channel
